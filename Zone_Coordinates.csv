@@ -1,0 +1,201 @@
+,LocationID,Borough,Zone,service_zone,location,location_coordinate,point,lat,long
+0,1,EWR,Newark Airport,EWR,Newark Airport EWR New York USA,,,,
+1,2,Queens,Jamaica Bay,Boro Zone,Jamaica Bay Queens New York USA,"Jamaica Bay, Jamaica Bay Wildlife Refuge - West Pond, New York, 11693, United States of America","(40.6039936, -73.8354124, 0.0)",40.6039936,-73.8354124
+3,4,Manhattan,Alphabet City,Yellow Zone,Alphabet City Manhattan New York USA,"Alphabet City, Manhattan Community Board 3, New York County, New York, 10009, United States of America","(40.7251022, -73.9795833, 0.0)",40.7251022,-73.9795833
+6,7,Queens,Astoria,Boro Zone,Astoria Queens New York USA,"Astoria–Ditmars Boulevard, 31st Street, Steinway, Queens, New York, 11101, United States of America","(40.7749872, -73.9121176, 0.0)",40.7749872,-73.9121176
+7,8,Queens,Astoria Park,Boro Zone,Astoria Park Queens New York USA,"Astoria Park, Queens, New York, United States of America","(40.7788277, -73.92262648880973, 0.0)",40.7788277,-73.92262648880973
+8,9,Queens,Auburndale,Boro Zone,Auburndale Queens New York USA,"Auburndale, 192nd Street, Queens, New York, 11358, United States of America","(40.7614516, -73.7897239, 0.0)",40.7614516,-73.7897239
+9,10,Queens,Baisley Park,Boro Zone,Baisley Park Queens New York USA,,,,
+10,11,Brooklyn,Bath Beach,Boro Zone,Bath Beach Brooklyn New York USA,,,,
+11,12,Manhattan,Battery Park,Yellow Zone,Battery Park Manhattan New York USA,"Battery Park, Financial District, Manhattan, Manhattan Community Board 1, New York County, New York, United States of America","(40.7030119, -74.01582493946844, 0.0)",40.7030119,-74.01582493946844
+12,13,Manhattan,Battery Park City,Yellow Zone,Battery Park City Manhattan New York USA,"Battery Park City, Manhattan Community Board 1, New York County, New York, United States of America","(40.7110166, -74.0169369, 0.0)",40.7110166,-74.0169369
+13,14,Brooklyn,Bay Ridge,Boro Zone,Bay Ridge Brooklyn New York USA,"The Ridge, Bay Ridge Parkway, Bay Ridge, Brooklyn, New York, 11209, United States of America","(40.63138815, -74.028499506621, 0.0)",40.63138815,-74.028499506621
+14,15,Queens,Bay Terrace/Fort Totten,Boro Zone,Bay Terrace/Fort Totten Queens New York USA,,,,
+15,16,Queens,Bayside,Boro Zone,Bayside Queens New York USA,"Bayside, 41st Avenue, Bayside, Queens, New York, 11361, United States of America","(40.7631044, -73.7718991, 0.0)",40.7631044,-73.7718991
+16,17,Brooklyn,Bedford,Boro Zone,Bedford Brooklyn New York USA,"Bedford, Bedford Avenue, Greenpoint, Brooklyn, New York, 11249, United States of America","(40.7187387, -73.9569017, 0.0)",40.7187387,-73.9569017
+18,19,Queens,Bellerose,Boro Zone,Bellerose Queens New York USA,"Bellerose Commons, Queens, New York, United States of America","(40.72738365, -73.71359101030359, 0.0)",40.72738365,-73.71359101030359
+20,21,Brooklyn,Bensonhurst East,Boro Zone,Bensonhurst East Brooklyn New York USA,,,,
+21,22,Brooklyn,Bensonhurst West,Boro Zone,Bensonhurst West Brooklyn New York USA,,,,
+23,24,Manhattan,Bloomingdale,Yellow Zone,Bloomingdale Manhattan New York USA,"Manhattan Valley, Manhattan Community Board 7, New York County, New York, United States of America","(40.7997764, -73.9677716, 0.0)",40.7997764,-73.9677716
+24,25,Brooklyn,Boerum Hill,Boro Zone,Boerum Hill Brooklyn New York USA,"Salvation Army Family Store, Atlantic Avenue, Boerum Hill, Brooklyn, New York, 11208, United States of America","(40.6863824, -73.9838707, 0.0)",40.6863824,-73.9838707
+25,26,Brooklyn,Borough Park,Boro Zone,Borough Park Brooklyn New York USA,,,,
+26,27,Queens,Breezy Point/Fort Tilden/Riis Beach,Boro Zone,Breezy Point/Fort Tilden/Riis Beach Queens New York USA,,,,
+27,28,Queens,Briarwood/Jamaica Hills,Boro Zone,Briarwood/Jamaica Hills Queens New York USA,,,,
+28,29,Brooklyn,Brighton Beach,Boro Zone,Brighton Beach Brooklyn New York USA,"Brighton Beach, Brighton Beach Avenue, Brighton Beach, Brooklyn, New York, 11235, United States of America","(40.577621, -73.961376, 0.0)",40.577621,-73.961376
+29,30,Queens,Broad Channel,Boro Zone,Broad Channel Queens New York USA,"Broad Channel, New York, United States of America","(40.6064008, -73.81901879728136, 0.0)",40.6064008,-73.81901879728136
+32,33,Brooklyn,Brooklyn Heights,Boro Zone,Brooklyn Heights Brooklyn New York USA,"Brooklyn Heights, New York, United States of America","(40.696084850000005, -73.9950278391265, 0.0)",40.696084850000005,-73.9950278391265
+33,34,Brooklyn,Brooklyn Navy Yard,Boro Zone,Brooklyn Navy Yard Brooklyn New York USA,"Brooklyn Navy Yard, Brooklyn, New York, 11251, United States of America","(40.70340065, -73.96996544893537, 0.0)",40.70340065,-73.96996544893537
+34,35,Brooklyn,Brownsville,Boro Zone,Brownsville Brooklyn New York USA,"Brownsville Houses, Brooklyn, New York, United States of America","(40.66572805, -73.90738675498025, 0.0)",40.66572805,-73.90738675498025
+35,36,Brooklyn,Bushwick North,Boro Zone,Bushwick North Brooklyn New York USA,"Bushwick Inlet Park, Brooklyn, New York, United States of America","(40.722349449999996, -73.96138226792525, 0.0)",40.722349449999996,-73.96138226792525
+36,37,Brooklyn,Bushwick South,Boro Zone,Bushwick South Brooklyn New York USA,"Bushwick Avenue, Broadway Junction, Brooklyn, New York, 11207, United States of America","(40.678737, -73.898869, 0.0)",40.678737,-73.898869
+37,38,Queens,Cambria Heights,Boro Zone,Cambria Heights Queens New York USA,"Cambria Heights, New York, 11411, United States of America","(40.6945474, -73.7384653, 0.0)",40.6945474,-73.7384653
+38,39,Brooklyn,Canarsie,Boro Zone,Canarsie Brooklyn New York USA,"Canarsie–Rockaway Parkway, Rockaway Parkway Bus Station, Canarsie, Brooklyn, New York, 11236, United States of America","(40.6464582, -73.9019799, 0.0)",40.6464582,-73.9019799
+39,40,Brooklyn,Carroll Gardens,Boro Zone,Carroll Gardens Brooklyn New York USA,,,,
+40,41,Manhattan,Central Harlem,Boro Zone,Central Harlem Manhattan New York USA,"Harlem, Manhattan Community Board 10, New York County, New York, United States of America","(40.8078786, -73.9454154, 0.0)",40.8078786,-73.9454154
+41,42,Manhattan,Central Harlem North,Boro Zone,Central Harlem North Manhattan New York USA,"Harlem, Manhattan Community Board 10, New York County, New York, United States of America","(40.8078786, -73.9454154, 0.0)",40.8078786,-73.9454154
+42,43,Manhattan,Central Park,Yellow Zone,Central Park Manhattan New York USA,"Central Park, Manhattan, New York, New York County, New York, United States of America","(40.7827725, -73.9653627406542, 0.0)",40.7827725,-73.9653627406542
+44,45,Manhattan,Chinatown,Yellow Zone,Chinatown Manhattan New York USA,"Chinatown, Manhattan Community Board 2, New York County, New York, United States of America","(40.7164913, -73.9962504, 0.0)",40.7164913,-73.9962504
+47,48,Manhattan,Clinton East,Yellow Zone,Clinton East Manhattan New York USA,,,,
+48,49,Brooklyn,Clinton Hill,Boro Zone,Clinton Hill Brooklyn New York USA,,,,
+49,50,Manhattan,Clinton West,Yellow Zone,Clinton West Manhattan New York USA,,,,
+51,52,Brooklyn,Cobble Hill,Boro Zone,Cobble Hill Brooklyn New York USA,,,,
+52,53,Queens,College Point,Boro Zone,College Point Queens New York USA,"College Point, New York, 11356, United States of America","(40.7876014, -73.8459682, 0.0)",40.7876014,-73.8459682
+53,54,Brooklyn,Columbia Street,Boro Zone,Columbia Street Brooklyn New York USA,"Columbia Street, Cobble Hill, Brooklyn, New York, 11231, United States of America","(40.6909555, -73.999808, 0.0)",40.6909555,-73.999808
+54,55,Brooklyn,Coney Island,Boro Zone,Coney Island Brooklyn New York USA,"Coney Island, Jones Walk, West Brighton, Brooklyn, New York, 11224, United States of America","(40.574472099999994, -73.97936877107499, 0.0)",40.574472099999994,-73.97936877107499
+55,56,Queens,Corona,Boro Zone,Corona Queens New York USA,"Corona, New York, 11368, United States of America","(40.7469593, -73.8601456, 0.0)",40.7469593,-73.8601456
+56,57,Queens,Corona,Boro Zone,Corona Queens New York USA,"Corona, New York, 11368, United States of America","(40.7469593, -73.8601456, 0.0)",40.7469593,-73.8601456
+60,61,Brooklyn,Crown Heights North,Boro Zone,Crown Heights North Brooklyn New York USA,,,,
+61,62,Brooklyn,Crown Heights South,Boro Zone,Crown Heights South Brooklyn New York USA,,,,
+62,63,Brooklyn,Cypress Hills,Boro Zone,Cypress Hills Brooklyn New York USA,"Cypress Hills, Jamaica Avenue, Brooklyn, New York, 11208, United States of America","(40.6899088, -73.8726597, 0.0)",40.6899088,-73.8726597
+63,64,Queens,Douglaston,Boro Zone,Douglaston Queens New York USA,"Douglaston, 235th Street, Douglaston, Queens, New York, 11363, United States of America","(40.768358, -73.7492477, 0.0)",40.768358,-73.7492477
+64,65,Brooklyn,Downtown Brooklyn/MetroTech,Boro Zone,Downtown Brooklyn/MetroTech Brooklyn New York USA,,,,
+65,66,Brooklyn,DUMBO/Vinegar Hill,Boro Zone,DUMBO/Vinegar Hill Brooklyn New York USA,,,,
+66,67,Brooklyn,Dyker Heights,Boro Zone,Dyker Heights Brooklyn New York USA,,,,
+67,68,Manhattan,East Chelsea,Yellow Zone,East Chelsea Manhattan New York USA,"Chelsea, Manhattan Community Board 4, New York County, New York, United States of America","(40.7464906, -74.0015283, 0.0)",40.7464906,-74.0015283
+69,70,Queens,East Elmhurst,Boro Zone,East Elmhurst Queens New York USA,"East Elmhurst, New York, 11369, United States of America","(40.7612123, -73.8651358, 0.0)",40.7612123,-73.8651358
+70,71,Brooklyn,East Flatbush/Farragut,Boro Zone,East Flatbush/Farragut Brooklyn New York USA,,,,
+71,72,Brooklyn,East Flatbush/Remsen Village,Boro Zone,East Flatbush/Remsen Village Brooklyn New York USA,,,,
+72,73,Queens,East Flushing,Boro Zone,East Flushing Queens New York USA,"196-36, Northern Boulevard, Queens, New York, 11358, United States of America","(40.757536599999995, -73.78430452865169, 0.0)",40.757536599999995,-73.78430452865169
+73,74,Manhattan,East Harlem North,Boro Zone,East Harlem North Manhattan New York USA,"East Harlem, Manhattan Community Board 11, New York County, New York, United States of America","(40.7947222, -73.9425, 0.0)",40.7947222,-73.9425
+74,75,Manhattan,East Harlem South,Boro Zone,East Harlem South Manhattan New York USA,"East Harlem, Manhattan Community Board 11, New York County, New York, United States of America","(40.7947222, -73.9425, 0.0)",40.7947222,-73.9425
+75,76,Brooklyn,East New York,Boro Zone,East New York Brooklyn New York USA,"East New York, Atlantic Avenue, Broadway Junction, Brooklyn, New York, 11207, United States of America","(40.6758826, -73.9032829, 0.0)",40.6758826,-73.9032829
+76,77,Brooklyn,East New York/Pennsylvania Avenue,Boro Zone,East New York/Pennsylvania Avenue Brooklyn New York USA,,,,
+78,79,Manhattan,East Village,Yellow Zone,East Village Manhattan New York USA,"East Village, Manhattan Community Board 3, New York County, New York, United States of America","(40.7292688, -73.9873613, 0.0)",40.7292688,-73.9873613
+79,80,Brooklyn,East Williamsburg,Boro Zone,East Williamsburg Brooklyn New York USA,"Williamsburg, Bedford Avenue, Greenpoint, Brooklyn, New York, 11249, United States of America","(40.7179808, -73.9575623, 0.0)",40.7179808,-73.9575623
+81,82,Queens,Elmhurst,Boro Zone,Elmhurst Queens New York USA,"Elmhurst, New York, 11373, United States of America","(40.7365804, -73.8783932, 0.0)",40.7365804,-73.8783932
+82,83,Queens,Elmhurst/Maspeth,Boro Zone,Elmhurst/Maspeth Queens New York USA,,,,
+84,85,Brooklyn,Erasmus,Boro Zone,Erasmus Brooklyn New York USA,"Erasmus Hall High School, Bedford Avenue, Flatbush, Brooklyn, New York, 11226, United States of America","(40.6495482, -73.9559714, 0.0)",40.6495482,-73.9559714
+85,86,Queens,Far Rockaway,Boro Zone,Far Rockaway Queens New York USA,"Far Rockaway, Redfern Avenue, Queens, Inwood, Nassau County, New York, 11096:11691, United States of America","(40.609039, -73.7506461, 0.0)",40.609039,-73.7506461
+86,87,Manhattan,Financial District North,Yellow Zone,Financial District North Manhattan New York USA,"Financial District, Manhattan Community Board 1, New York County, New York, United States of America","(40.7076124, -74.009378, 0.0)",40.7076124,-74.009378
+87,88,Manhattan,Financial District South,Yellow Zone,Financial District South Manhattan New York USA,"Financial District, Manhattan Community Board 1, New York County, New York, United States of America","(40.7076124, -74.009378, 0.0)",40.7076124,-74.009378
+88,89,Brooklyn,Flatbush/Ditmas Park,Boro Zone,Flatbush/Ditmas Park Brooklyn New York USA,"Flatbush-Tompkins Church, East 18th Street, Ditmas Park, Brooklyn, New York, 11235, United States of America","(40.6401454, -73.9608797, 0.0)",40.6401454,-73.9608797
+89,90,Manhattan,Flatiron,Yellow Zone,Flatiron Manhattan New York USA,"Flatiron Building, 5th Avenue, Flatiron District, Manhattan, Manhattan Community Board 5, New York County, New York, 10010, United States of America","(40.741059199999995, -73.98964162240998, 0.0)",40.741059199999995,-73.98964162240998
+90,91,Brooklyn,Flatlands,Boro Zone,Flatlands Brooklyn New York USA,"Flatlands Dutch Reformed Church, East 40th Street, Flatlands, Brooklyn, New York, 11210, United States of America","(40.624164699999994, -73.9362753, 0.0)",40.624164699999994,-73.9362753
+91,92,Queens,Flushing,Boro Zone,Flushing Queens New York USA,"Flushing, New York, 11354, United States of America","(40.7654301, -73.8174291, 0.0)",40.7654301,-73.8174291
+92,93,Queens,Flushing Meadows-Corona Park,Boro Zone,Flushing Meadows-Corona Park Queens New York USA,"Flushing Meadows-Corona Park, Queens, New York, United States of America","(40.7406806, -73.8432371636799, 0.0)",40.7406806,-73.8432371636799
+94,95,Queens,Forest Hills,Boro Zone,Forest Hills Queens New York USA,"Forest Hills, 71st Avenue, Forest Hills Gardens, Queens, New York, 11375, United States of America","(40.7195942, -73.8448553, 0.0)",40.7195942,-73.8448553
+95,96,Queens,Forest Park/Highland Park,Boro Zone,Forest Park/Highland Park Queens New York USA,,,,
+96,97,Brooklyn,Fort Greene,Boro Zone,Fort Greene Brooklyn New York USA,,,,
+97,98,Queens,Fresh Meadows,Boro Zone,Fresh Meadows Queens New York USA,"Fresh Meadows, New York, 11365, United States of America","(40.7348246, -73.7934668, 0.0)",40.7348246,-73.7934668
+99,100,Manhattan,Garment District,Yellow Zone,Garment District Manhattan New York USA,"Garment District, Manhattan Community Board 5, New York County, New York, United States of America","(40.7536941, -73.9905167, 0.0)",40.7536941,-73.9905167
+100,101,Queens,Glen Oaks,Boro Zone,Glen Oaks Queens New York USA,"Glen Oaks, New York, 11004, United States of America","(40.7470463, -73.7115199, 0.0)",40.7470463,-73.7115199
+101,102,Queens,Glendale,Boro Zone,Glendale Queens New York USA,"Glendale, New York, 11385, United States of America","(40.7014917, -73.8868028, 0.0)",40.7014917,-73.8868028
+102,103,Manhattan,Governor's Island/Ellis Island/Liberty Island,Yellow Zone,Governor's Island/Ellis Island/Liberty Island Manhattan New York USA,,,,
+103,104,Manhattan,Governor's Island/Ellis Island/Liberty Island,Yellow Zone,Governor's Island/Ellis Island/Liberty Island Manhattan New York USA,,,,
+104,105,Manhattan,Governor's Island/Ellis Island/Liberty Island,Yellow Zone,Governor's Island/Ellis Island/Liberty Island Manhattan New York USA,,,,
+105,106,Brooklyn,Gowanus,Boro Zone,Gowanus Brooklyn New York USA,"Gowanus Houses, Brooklyn, New York, United States of America","(40.683540050000005, -73.98849011981457, 0.0)",40.683540050000005,-73.98849011981457
+106,107,Manhattan,Gramercy,Yellow Zone,Gramercy Manhattan New York USA,"Gramercy, Manhattan, Manhattan Community Board 6, New York County, New York, United States of America","(40.7355189, -73.9840794, 0.0)",40.7355189,-73.9840794
+107,108,Brooklyn,Gravesend,Boro Zone,Gravesend Brooklyn New York USA,"Gravesend Houses, Brooklyn, New York, 11224, United States of America","(40.57861365, -73.99918540072682, 0.0)",40.57861365,-73.99918540072682
+110,111,Brooklyn,Green-Wood Cemetery,Boro Zone,Green-Wood Cemetery Brooklyn New York USA,"Green-Wood Cemetery, Brooklyn, New York, 11232, United States of America","(40.65220295, -73.99107393108886, 0.0)",40.65220295,-73.99107393108886
+111,112,Brooklyn,Greenpoint,Boro Zone,Greenpoint Brooklyn New York USA,"The Greenpoint, Huron Street, Brooklyn, New York, 11222, United States of America","(40.73206945, -73.96096141672601, 0.0)",40.73206945,-73.96096141672601
+112,113,Manhattan,Greenwich Village North,Yellow Zone,Greenwich Village North Manhattan New York USA,"Greenwich Village, 7th Avenue South, West Village, Manhattan, Manhattan Community Board 2, New York County, New York, 10014, United States of America","(40.7335844, -74.0028172, 0.0)",40.7335844,-74.0028172
+113,114,Manhattan,Greenwich Village South,Yellow Zone,Greenwich Village South Manhattan New York USA,"Greenwich Village, Manhattan Community Board 2, New York County, New York, United States of America","(40.7319802, -73.9965658, 0.0)",40.7319802,-73.9965658
+115,116,Manhattan,Hamilton Heights,Boro Zone,Hamilton Heights Manhattan New York USA,"Hamilton Heights, Manhattan Community Board 9, New York County, New York, 10031, United States of America","(40.8241451, -73.9500618, 0.0)",40.8241451,-73.9500618
+116,117,Queens,Hammels/Arverne,Boro Zone,Hammels/Arverne Queens New York USA,"IND Rockaway Line, Java Place, Hammels, Queens, New York, 11693, United States of America","(40.5903542, -73.8098461, 0.0)",40.5903542,-73.8098461
+119,120,Manhattan,Highbridge Park,Boro Zone,Highbridge Park Manhattan New York USA,"Highbridge Park, Washington Heights, Manhattan, Manhattan Community Board 12, New York County, New York, United States of America","(40.846055199999995, -73.92973293371841, 0.0)",40.846055199999995,-73.92973293371841
+120,121,Queens,Hillcrest/Pomonok,Boro Zone,Hillcrest/Pomonok Queens New York USA,"Pomonok, New York, United States of America","(40.7324478, -73.80883093979648, 0.0)",40.7324478,-73.80883093979648
+121,122,Queens,Hollis,Boro Zone,Hollis Queens New York USA,"Hollis, Sagamore Avenue, Hollis, Queens, New York, 11423, United States of America","(40.7101715, -73.7666684, 0.0)",40.7101715,-73.7666684
+122,123,Brooklyn,Homecrest,Boro Zone,Homecrest Brooklyn New York USA,"Homecrest Playground, Brooklyn, New York, United States of America","(40.58611335, -73.95731014951107, 0.0)",40.58611335,-73.95731014951107
+123,124,Queens,Howard Beach,Boro Zone,Howard Beach Queens New York USA,"Howard Beach, New York, 11414, United States of America","(40.6578815, -73.8362459, 0.0)",40.6578815,-73.8362459
+124,125,Manhattan,Hudson Sq,Yellow Zone,Hudson Sq Manhattan New York USA,"Hudson Square, Manhattan Community Board 2, New York County, New York, United States of America","(40.7268035, -74.0079833, 0.0)",40.7268035,-74.0079833
+126,127,Manhattan,Inwood,Boro Zone,Inwood Manhattan New York USA,"Inwood, Manhattan, Manhattan Community Board 12, New York County, New York, 10034, United States of America","(40.8692579, -73.9204949, 0.0)",40.8692579,-73.9204949
+127,128,Manhattan,Inwood Hill Park,Boro Zone,Inwood Hill Park Manhattan New York USA,"Inwood Hill Park, Inwood, Manhattan Community Board 12, New York County, New York, United States of America","(40.87227365, -73.9254270915026, 0.0)",40.87227365,-73.9254270915026
+128,129,Queens,Jackson Heights,Boro Zone,Jackson Heights Queens New York USA,"Jackson Heights, New York, 11372, United States of America","(40.7556561, -73.8857755, 0.0)",40.7556561,-73.8857755
+129,130,Queens,Jamaica,Boro Zone,Jamaica Queens New York USA,"Jamaica, Sutphin Boulevard, Queens, New York, 11434, United States of America","(40.699835, -73.8077023, 0.0)",40.699835,-73.8077023
+130,131,Queens,Jamaica Estates,Boro Zone,Jamaica Estates Queens New York USA,"Jamaica Estates, Midland Parkway, Hillside, Queens, New York, 11432, United States of America","(40.71332165, -73.78250595420786, 0.0)",40.71332165,-73.78250595420786
+131,132,Queens,JFK Airport,Airports,JFK Airport Queens New York USA,"John F. Kennedy International Airport, 145th Avenue, Queens, New York, 11430, United States of America","(40.642947899999996, -73.7793733748521, 0.0)",40.642947899999996,-73.7793733748521
+132,133,Brooklyn,Kensington,Boro Zone,Kensington Brooklyn New York USA,"Kensington Street, Brooklyn, New York, 11235, United States of America","(40.5781526, -73.9416619, 0.0)",40.5781526,-73.9416619
+133,134,Queens,Kew Gardens,Boro Zone,Kew Gardens Queens New York USA,"Kew Gardens, Audley Street, Kew Gardens, Queens, New York, 11415, United States of America","(40.7095633, -73.8307965, 0.0)",40.7095633,-73.8307965
+134,135,Queens,Kew Gardens Hills,Boro Zone,Kew Gardens Hills Queens New York USA,,,,
+136,137,Manhattan,Kips Bay,Yellow Zone,Kips Bay Manhattan New York USA,"Kips Bay, Manhattan Community Board 6, New York County, New York, 10016, United States of America","(40.7395463, -73.9770832, 0.0)",40.7395463,-73.9770832
+137,138,Queens,LaGuardia Airport,Airports,LaGuardia Airport Queens New York USA,"LaGuardia Airport, 25th Avenue, East Elmhurst, Queens, New York, 11371, United States of America","(40.7757145, -73.87336398511545, 0.0)",40.7757145,-73.87336398511545
+138,139,Queens,Laurelton,Boro Zone,Laurelton Queens New York USA,"Laurelton, 224th Street, Laurelton, Queens, New York, 11413, United States of America","(40.668518, -73.7518434, 0.0)",40.668518,-73.7518434
+139,140,Manhattan,Lenox Hill East,Yellow Zone,Lenox Hill East Manhattan New York USA,"Lenox Hill, Manhattan Community Board 8, New York County, New York, United States of America","(40.7664366, -73.9590168, 0.0)",40.7664366,-73.9590168
+140,141,Manhattan,Lenox Hill West,Yellow Zone,Lenox Hill West Manhattan New York USA,"Lenox Hill, Manhattan Community Board 8, New York County, New York, United States of America","(40.7664366, -73.9590168, 0.0)",40.7664366,-73.9590168
+141,142,Manhattan,Lincoln Square East,Yellow Zone,Lincoln Square East Manhattan New York USA,"Lincoln Square, Manhattan Community Board 7, New York County, New York, United States of America","(40.7723194, -73.9844012, 0.0)",40.7723194,-73.9844012
+142,143,Manhattan,Lincoln Square West,Yellow Zone,Lincoln Square West Manhattan New York USA,"Lincoln Square, Manhattan Community Board 7, New York County, New York, United States of America","(40.7723194, -73.9844012, 0.0)",40.7723194,-73.9844012
+143,144,Manhattan,Little Italy/NoLiTa,Yellow Zone,Little Italy/NoLiTa Manhattan New York USA,,,,
+144,145,Queens,Long Island City/Hunters Point,Boro Zone,Long Island City/Hunters Point Queens New York USA,,,,
+145,146,Queens,Long Island City/Queens Plaza,Boro Zone,Long Island City/Queens Plaza Queens New York USA,"Long Island City, Borden Avenue, Queens, New York, 11109, United States of America","(40.7415095, -73.9569751, 0.0)",40.7415095,-73.9569751
+147,148,Manhattan,Lower East Side,Yellow Zone,Lower East Side Manhattan New York USA,"Lower East Side, Manhattan Community Board 3, New York County, New York, United States of America","(40.7159357, -73.9868057, 0.0)",40.7159357,-73.9868057
+148,149,Brooklyn,Madison,Boro Zone,Madison Brooklyn New York USA,"James Madison High School, Avenue P, Brooklyn, New York, 11229, United States of America","(40.610507999999996, -73.94766693167179, 0.0)",40.610507999999996,-73.94766693167179
+149,150,Brooklyn,Manhattan Beach,Boro Zone,Manhattan Beach Brooklyn New York USA,"Manhattan Beach, Brooklyn, New York, United States of America","(40.576673549999995, -73.94106733063637, 0.0)",40.576673549999995,-73.94106733063637
+150,151,Manhattan,Manhattan Valley,Yellow Zone,Manhattan Valley Manhattan New York USA,"Manhattan Valley, Manhattan Community Board 7, New York County, New York, United States of America","(40.7997764, -73.9677716, 0.0)",40.7997764,-73.9677716
+151,152,Manhattan,Manhattanville,Boro Zone,Manhattanville Manhattan New York USA,"Manhattanville, Manhattan Community Board 9, New York County, New York, United States of America","(40.8157775, -73.951554, 0.0)",40.8157775,-73.951554
+152,153,Manhattan,Marble Hill,Boro Zone,Marble Hill Manhattan New York USA,"Marble Hill, Manhattan, New York, New York County, New York, United States of America","(40.8762983, -73.9104292, 0.0)",40.8762983,-73.9104292
+153,154,Brooklyn,Marine Park/Floyd Bennett Field,Boro Zone,Marine Park/Floyd Bennett Field Brooklyn New York USA,,,,
+154,155,Brooklyn,Marine Park/Mill Basin,Boro Zone,Marine Park/Mill Basin Brooklyn New York USA,,,,
+156,157,Queens,Maspeth,Boro Zone,Maspeth Queens New York USA,"Maspeth, New York, 11378, United States of America","(40.723158, -73.912637, 0.0)",40.723158,-73.912637
+157,158,Manhattan,Meatpacking/West Village West,Yellow Zone,Meatpacking/West Village West Manhattan New York USA,,,,
+159,160,Queens,Middle Village,Boro Zone,Middle Village Queens New York USA,"Middle Village, New York, 11379, United States of America","(40.718215650000005, -73.87867154730415, 0.0)",40.718215650000005,-73.87867154730415
+160,161,Manhattan,Midtown Center,Yellow Zone,Midtown Center Manhattan New York USA,"Midtown, Manhattan Community Board 5, New York County, New York, United States of America","(40.7601085, -73.97816329087175, 0.0)",40.7601085,-73.97816329087175
+161,162,Manhattan,Midtown East,Yellow Zone,Midtown East Manhattan New York USA,"Midtown East, Manhattan Community Board 5, New York County, New York, United States of America","(40.7598219, -73.9724708, 0.0)",40.7598219,-73.9724708
+162,163,Manhattan,Midtown North,Yellow Zone,Midtown North Manhattan New York USA,"Midtown, Manhattan Community Board 5, New York County, New York, United States of America","(40.7601085, -73.97816329087175, 0.0)",40.7601085,-73.97816329087175
+163,164,Manhattan,Midtown South,Yellow Zone,Midtown South Manhattan New York USA,"Midtown South, Manhattan Community Board 5, New York County, New York, 10118, United States of America","(40.7498417, -73.984251, 0.0)",40.7498417,-73.984251
+164,165,Brooklyn,Midwood,Boro Zone,Midwood Brooklyn New York USA,"Midwood, East Drive, Brooklyn, New York, 11238, United States of America","(40.664534599999996, -73.96685804585428, 0.0)",40.664534599999996,-73.96685804585428
+165,166,Manhattan,Morningside Heights,Boro Zone,Morningside Heights Manhattan New York USA,"Morningside Heights, Manhattan Community Board 9, New York County, New York, 10115, United States of America","(40.81, -73.9625, 0.0)",40.81,-73.9625
+169,170,Manhattan,Murray Hill,Yellow Zone,Murray Hill Manhattan New York USA,"Murray Hill, Manhattan Community Board 6, New York County, New York, United States of America","(40.7481574, -73.97875, 0.0)",40.7481574,-73.97875
+170,171,Queens,Murray Hill-Queens,Boro Zone,Murray Hill-Queens Queens New York USA,"Murray Hill, Barton Avenue, Murray Hill, Queens, New York, 11354, United States of America","(40.7627097, -73.8146116, 0.0)",40.7627097,-73.8146116
+172,173,Queens,North Corona,Boro Zone,North Corona Queens New York USA,"Corona, New York, 11368, United States of America","(40.7469593, -73.8601456, 0.0)",40.7469593,-73.8601456
+174,175,Queens,Oakland Gardens,Boro Zone,Oakland Gardens Queens New York USA,"Oakland Gardens, New York, 11364, United States of America","(40.753991, -73.765966, 0.0)",40.753991,-73.765966
+176,177,Brooklyn,Ocean Hill,Boro Zone,Ocean Hill Brooklyn New York USA,,,,
+177,178,Brooklyn,Ocean Parkway South,Boro Zone,Ocean Parkway South Brooklyn New York USA,"Ocean Parkway, Brighton Beach Avenue, West Brighton, Brooklyn, New York, 11235, United States of America","(40.576312, -73.968501, 0.0)",40.576312,-73.968501
+178,179,Queens,Old Astoria,Boro Zone,Old Astoria Queens New York USA,,,,
+179,180,Queens,Ozone Park,Boro Zone,Ozone Park Queens New York USA,"Ozone Park, New York, 11417, United States of America","(40.67677, -73.8437461, 0.0)",40.67677,-73.8437461
+180,181,Brooklyn,Park Slope,Boro Zone,Park Slope Brooklyn New York USA,"Portraits USA, Prospect Avenue, Park Slope, Brooklyn, New York, 11218, United States of America","(40.6525555, -73.976266, 0.0)",40.6525555,-73.976266
+185,186,Manhattan,Penn Station/Madison Sq West,Yellow Zone,Penn Station/Madison Sq West Manhattan New York USA,,,,
+187,188,Brooklyn,Prospect-Lefferts Gardens,Boro Zone,Prospect-Lefferts Gardens Brooklyn New York USA,,,,
+188,189,Brooklyn,Prospect Heights,Boro Zone,Prospect Heights Brooklyn New York USA,"Martial Arts USA, Washington Avenue, Prospect Heights, Brooklyn, New York, 11238, United States of America","(40.6741332, -73.9627089, 0.0)",40.6741332,-73.9627089
+189,190,Brooklyn,Prospect Park,Boro Zone,Prospect Park Brooklyn New York USA,"Prospect Park, Windsor Terrace, Brooklyn, New York, United States of America","(40.661774300000005, -73.97108902901994, 0.0)",40.661774300000005,-73.97108902901994
+190,191,Queens,Queens Village,Boro Zone,Queens Village Queens New York USA,"Queens Village, Amboy Lane, Queens, New York, 11429, United States of America","(40.7175718, -73.7359328, 0.0)",40.7175718,-73.7359328
+191,192,Queens,Queensboro Hill,Boro Zone,Queensboro Hill Queens New York USA,"The Queensboro, 80th Street, Jackson Heights, Queens, New York, 11372, United States of America","(40.7552023, -73.8870197, 0.0)",40.7552023,-73.8870197
+192,193,Queens,Queensbridge/Ravenswood,Boro Zone,Queensbridge/Ravenswood Queens New York USA,,,,
+193,194,Manhattan,Randalls Island,Yellow Zone,Randalls Island Manhattan New York USA,"Randalls Island, Manhattan, Manhattan Community Board 11, New York County, New York, 10454-4606, United States of America","(40.7967677, -73.9220815, 0.0)",40.7967677,-73.9220815
+194,195,Brooklyn,Red Hook,Boro Zone,Red Hook Brooklyn New York USA,"Red Hook, Coffey Street, Red Hook, Brooklyn, New York, 11231, United States of America","(40.6787631, -74.0183009, 0.0)",40.6787631,-74.0183009
+195,196,Queens,Rego Park,Boro Zone,Rego Park Queens New York USA,"Rego Park, New York, United States of America","(40.72286495, -73.86210197975404, 0.0)",40.72286495,-73.86210197975404
+196,197,Queens,Richmond Hill,Boro Zone,Richmond Hill Queens New York USA,"Richmond Hill, New York, 11418, United States of America","(40.6994253, -73.8309672, 0.0)",40.6994253,-73.8309672
+197,198,Queens,Ridgewood,Boro Zone,Ridgewood Queens New York USA,"Ridgewood Reservoir, HIghland Park Greenway, Queens, New York, United States of America","(40.68912345, -73.88646349029689, 0.0)",40.68912345,-73.88646349029689
+200,201,Queens,Rockaway Park,Boro Zone,Rockaway Park Queens New York USA,"Rockaway Park, New York, 11694, United States of America","(40.5805104, -73.8361535, 0.0)",40.5805104,-73.8361535
+201,202,Manhattan,Roosevelt Island,Boro Zone,Roosevelt Island Manhattan New York USA,"Roosevelt Island, Manhattan, Manhattan Community Board 8, New York County, New York, 10044, United States of America","(40.7614177, -73.9502281671115, 0.0)",40.7614177,-73.9502281671115
+202,203,Queens,Rosedale,Boro Zone,Rosedale Queens New York USA,"Rosedale, Queens, New York, 11422, United States of America","(40.6620479, -73.7354097, 0.0)",40.6620479,-73.7354097
+204,205,Queens,Saint Albans,Boro Zone,Saint Albans Queens New York USA,"Saint Albans, New York, 11412, United States of America","(40.6984364, -73.7606881, 0.0)",40.6984364,-73.7606881
+206,207,Queens,Saint Michaels Cemetery/Woodside,Boro Zone,Saint Michaels Cemetery/Woodside Queens New York USA,,,,
+208,209,Manhattan,Seaport,Yellow Zone,Seaport Manhattan New York USA,"South Street Seaport, feery, Financial District, Manhattan, Manhattan Community Board 1, New York County, New York, 10038, United States of America","(40.7057752, -74.0028376, 0.0)",40.7057752,-74.0028376
+209,210,Brooklyn,Sheepshead Bay,Boro Zone,Sheepshead Bay Brooklyn New York USA,"Sheepshead Bay, Sheepshead Bay Road, Brooklyn, New York, 11235, United States of America","(40.586896, -73.954155, 0.0)",40.586896,-73.954155
+210,211,Manhattan,SoHo,Yellow Zone,SoHo Manhattan New York USA,"SoHo, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America","(40.72288, -73.9987505, 0.0)",40.72288,-73.9987505
+214,215,Queens,South Jamaica,Boro Zone,South Jamaica Queens New York USA,"SA, South Cargo Road, Queens, New York, 11430, United States of America","(40.6504178, -73.7971341, 0.0)",40.6504178,-73.7971341
+215,216,Queens,South Ozone Park,Boro Zone,South Ozone Park Queens New York USA,"South Ozone Park, New York, 11420, United States of America","(40.6701035, -73.8190231, 0.0)",40.6701035,-73.8190231
+216,217,Brooklyn,South Williamsburg,Boro Zone,South Williamsburg Brooklyn New York USA,"Williamsburg, Bedford Avenue, Greenpoint, Brooklyn, New York, 11249, United States of America","(40.7179808, -73.9575623, 0.0)",40.7179808,-73.9575623
+217,218,Queens,Springfield Gardens North,Boro Zone,Springfield Gardens North Queens New York USA,"Springfield Gardens, New York, 11413, United States of America","(40.678159, -73.746521, 0.0)",40.678159,-73.746521
+218,219,Queens,Springfield Gardens South,Boro Zone,Springfield Gardens South Queens New York USA,"Springfield Gardens, New York, 11413, United States of America","(40.678159, -73.746521, 0.0)",40.678159,-73.746521
+221,222,Brooklyn,Starrett City,Boro Zone,Starrett City Brooklyn New York USA,"Spring Creek Towers (Starrett City), Brooklyn, New York, 11239, United States of America","(40.6478541, -73.87951545688418, 0.0)",40.6478541,-73.87951545688418
+222,223,Queens,Steinway,Boro Zone,Steinway Queens New York USA,"Steinway, New York, 11105, United States of America","(40.7745459, -73.9037477, 0.0)",40.7745459,-73.9037477
+223,224,Manhattan,Stuy Town/Peter Cooper Village,Yellow Zone,Stuy Town/Peter Cooper Village Manhattan New York USA,,,,
+224,225,Brooklyn,Stuyvesant Heights,Boro Zone,Stuyvesant Heights Brooklyn New York USA,,,,
+225,226,Queens,Sunnyside,Boro Zone,Sunnyside Queens New York USA,"Sunnyside, New York, 11101, United States of America","(40.7398242, -73.9354153, 0.0)",40.7398242,-73.9354153
+226,227,Brooklyn,Sunset Park East,Boro Zone,Sunset Park East Brooklyn New York USA,,,,
+227,228,Brooklyn,Sunset Park West,Boro Zone,Sunset Park West Brooklyn New York USA,"Sunset Park, Brooklyn, New York, 11220, United States of America","(40.64797715, -74.00375011205864, 0.0)",40.64797715,-74.00375011205864
+228,229,Manhattan,Sutton Place/Turtle Bay North,Yellow Zone,Sutton Place/Turtle Bay North Manhattan New York USA,,,,
+229,230,Manhattan,Times Sq/Theatre District,Yellow Zone,Times Sq/Theatre District Manhattan New York USA,,,,
+230,231,Manhattan,TriBeCa/Civic Center,Yellow Zone,TriBeCa/Civic Center Manhattan New York USA,"Tribeca, Manhattan Community Board 1, New York County, New York, United States of America","(40.7153802, -74.0093063, 0.0)",40.7153802,-74.0093063
+231,232,Manhattan,Two Bridges/Seward Park,Yellow Zone,Two Bridges/Seward Park Manhattan New York USA,,,,
+232,233,Manhattan,UN/Turtle Bay South,Yellow Zone,UN/Turtle Bay South Manhattan New York USA,"Turtle Bay, Manhattan Community Board 6, New York County, New York, United States of America","(40.7534666, -73.9688659, 0.0)",40.7534666,-73.9688659
+233,234,Manhattan,Union Sq,Yellow Zone,Union Sq Manhattan New York USA,"Union Square, Manhattan, Manhattan Community Board 5, New York County, New York, United States of America","(40.7359091, -73.9901626, 0.0)",40.7359091,-73.9901626
+235,236,Manhattan,Upper East Side North,Yellow Zone,Upper East Side North Manhattan New York USA,"Upper East Side, Manhattan Community Board 8, New York County, New York, United States of America","(40.7737016, -73.9641196, 0.0)",40.7737016,-73.9641196
+236,237,Manhattan,Upper East Side South,Yellow Zone,Upper East Side South Manhattan New York USA,"Upper East Side, Manhattan Community Board 8, New York County, New York, United States of America","(40.7737016, -73.9641196, 0.0)",40.7737016,-73.9641196
+237,238,Manhattan,Upper West Side North,Yellow Zone,Upper West Side North Manhattan New York USA,"Upper West Side, Manhattan Community Board 7, New York County, New York, United States of America","(40.7870455, -73.9754163, 0.0)",40.7870455,-73.9754163
+238,239,Manhattan,Upper West Side South,Yellow Zone,Upper West Side South Manhattan New York USA,"Upper West Side, Manhattan Community Board 7, New York County, New York, United States of America","(40.7870455, -73.9754163, 0.0)",40.7870455,-73.9754163
+242,243,Manhattan,Washington Heights North,Boro Zone,Washington Heights North Manhattan New York USA,"Washington Heights, Manhattan Community Board 12, New York County, New York, United States of America","(40.8401984, -73.9402214, 0.0)",40.8401984,-73.9402214
+243,244,Manhattan,Washington Heights South,Boro Zone,Washington Heights South Manhattan New York USA,"Washington Heights, Manhattan Community Board 12, New York County, New York, United States of America","(40.8401984, -73.9402214, 0.0)",40.8401984,-73.9402214
+245,246,Manhattan,West Chelsea/Hudson Yards,Yellow Zone,West Chelsea/Hudson Yards Manhattan New York USA,,,,
+248,249,Manhattan,West Village,Yellow Zone,West Village Manhattan New York USA,"West Village, Manhattan Community Board 2, New York County, New York, 10014, United States of America","(40.7341857, -74.00558, 0.0)",40.7341857,-74.00558
+251,252,Queens,Whitestone,Boro Zone,Whitestone Queens New York USA,"Whitestone, New York, 11357, United States of America","(40.7945457, -73.8184674, 0.0)",40.7945457,-73.8184674
+252,253,Queens,Willets Point,Boro Zone,Willets Point Queens New York USA,"Willets Point, Shore Road, Queens, New York, 11359, United States of America","(40.796708, -73.779396, 0.0)",40.796708,-73.779396
+254,255,Brooklyn,Williamsburg (North Side),Boro Zone,Williamsburg (North Side) Brooklyn New York USA,"Williamsburg, Bedford Avenue, Greenpoint, Brooklyn, New York, 11249, United States of America","(40.7179808, -73.9575623, 0.0)",40.7179808,-73.9575623
+255,256,Brooklyn,Williamsburg (South Side),Boro Zone,Williamsburg (South Side) Brooklyn New York USA,,,,
+256,257,Brooklyn,Windsor Terrace,Boro Zone,Windsor Terrace Brooklyn New York USA,"Portraits USA, Prospect Avenue, Park Slope, Brooklyn, New York, 11218, United States of America","(40.6525555, -73.976266, 0.0)",40.6525555,-73.976266
+257,258,Queens,Woodhaven,Boro Zone,Woodhaven Queens New York USA,"Woodhaven, New York, 11421, United States of America","(40.6892698, -73.8579131, 0.0)",40.6892698,-73.8579131
+259,260,Queens,Woodside,Boro Zone,Woodside Queens New York USA,"Woodside, 61st Street, Woodside, Queens, New York, 11377, United States of America","(40.7461604, -73.9032853, 0.0)",40.7461604,-73.9032853
+260,261,Manhattan,World Trade Center,Yellow Zone,World Trade Center Manhattan New York USA,"World Trade Center, Greenwich Street, Westfield World Trade Center, Manhattan, Manhattan Community Board 1, New York County, New York, 10048, United States of America","(40.7118877, -74.0124412, 0.0)",40.7118877,-74.0124412
+261,262,Manhattan,Yorkville East,Yellow Zone,Yorkville East Manhattan New York USA,"Yorkville, Manhattan, Manhattan Community Board 8, New York County, New York, United States of America","(40.7780067, -73.9482022, 0.0)",40.7780067,-73.9482022
+262,263,Manhattan,Yorkville West,Yellow Zone,Yorkville West Manhattan New York USA,"Yorkville, Manhattan, Manhattan Community Board 8, New York County, New York, United States of America","(40.7780067, -73.9482022, 0.0)",40.7780067,-73.9482022
